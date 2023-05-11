@@ -6,7 +6,7 @@ Usage
 To compile the programs, run the following command:
 
 javac LZencode.java LZdecode.java LZpack.java LZunpack.java
-javac BitPacker.java BitUnpacker.java
+javac BitPacker.java BitUnpacker.java Trie.java
 
 To run the programs, use the following commands:
 
